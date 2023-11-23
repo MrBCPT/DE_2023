@@ -4,3 +4,7 @@ Data/title.basics.tsv.gz
 Data/title.ratings.tsv.gz
 Database/world_ERD.mwb
 data_science_salary_2021 - data_science_salary_2021.csv
+*.gz
+Data/title_akas.csv.gz
+*.json
+*.zip
